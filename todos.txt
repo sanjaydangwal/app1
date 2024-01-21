@@ -1,0 +1,7 @@
+clean
+throw
+bath
+play football
+go to gym
+go for jog.
+fix the bug.
