@@ -1,8 +1,10 @@
-clean
+clean the room.
 throw
 bath
-play football
+play football in college.
 go to gym
 go for jog.
 fix the bug.
-take a bath.
+take a bath in lake.
+go to gym again
+cook the food.
